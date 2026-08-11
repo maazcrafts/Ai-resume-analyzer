@@ -1,0 +1,46 @@
+JOHN ANDERSON
+
+Email: john@example.com
+Location: Mumbai, India
+
+CAREER OBJECTIVE
+
+Computer Engineering student interested in Python,
+Machine Learning and Software Development.
+
+EDUCATION
+
+Diploma in Computer Engineering
+ABC Polytechnic College, Mumbai
+2023 - 2026
+
+SKILLS
+
+- Python
+- C++
+- SQL
+- HTML
+- Machine Learning
+- Git
+- GitHub
+
+PROJECTS
+
+- Spam Email Detection using Naive Bayes
+- Network Intrusion Detection using Random Forest
+- AQI Prediction using XGBoost
+
+INTERNSHIP
+
+Machine Learning Intern
+ABC Technologies
+
+- Worked on Python and Machine Learning projects.
+- Learned data preprocessing and machine learning algorithms.
+
+SOFT SKILLS
+
+- Problem Solving
+- Communication
+- Teamwork
+- Quick Learning
